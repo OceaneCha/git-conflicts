@@ -1,4 +1,4 @@
-# git-conflicts
+REMOTE # git-conflicts
 Temp repo for conflicts
 This is yet another test repo.
 
